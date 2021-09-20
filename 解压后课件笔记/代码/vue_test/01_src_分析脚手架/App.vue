@@ -7,7 +7,7 @@
 </template>
 
 <script>
-	//引入组件
+	//引入组件q
 	import School from './components/School'
 	import Student from './components/Student'
 
